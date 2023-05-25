@@ -6,7 +6,7 @@
 2. [Setting up the Environment](#setting-up-the-environment)
 3. [Basic Syntax](#basic-syntax)
 
-   - [Variables and Data Types](./docs/var_datatypes.md)
+   - [Variables and Data Types](docs/var_datatypes.md)
      - [Variable Declaration](#variable-declaration)
      - [Primitive Data Types](#primitive-data-types)
        - [Strings](#strings)
