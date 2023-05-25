@@ -7,7 +7,7 @@
 3. [Basic Syntax](#basic-syntax)
 
    - [Variables and Data Types](docs/var_datatypes.md)
-     - [Variable Declaration](#variable-declaration)
+     - [Variable Declaration](docs/var_datatypes.md#variable-declaration)
      - [Primitive Data Types](#primitive-data-types)
        - [Strings](#strings)
        - [Numbers](#numbers)
@@ -34,7 +34,6 @@
        - [break and continue](#break-and-continue)
        - [for...in Loop](#for-in-loop)
        - [for...of Loop](#for-of-loop)
-
 4. [Functions and Objects](#functions-and-objects)
 
    - [Functions in JavaScript](#functions-in-javascript)
@@ -58,7 +57,6 @@
      - [Constructor Functions](#constructor-functions)
      - [Prototypes and Prototypal Inheritance](#prototypes-and-prototypal-inheritance)
      - [ES6 Classes](#es6-classes)
-
 5. [Data Structures](#data-structures)
 
    - [Arrays](#arrays)
@@ -75,25 +73,21 @@
      - [Number Methods](#number-methods)
      - [Number Manipulation](#number-manipulation)
    - [Boolean and Null](#boolean-and-null)
-
 6. [Events and Event Handling](#events-and-event-handling)
 
    - [Events in JavaScript](#events-in-javascript)
    - [Event Handling with Functions](#event-handling-with-functions)
    - [Event Handling in the Browser](#event-handling-in-the-browser)
-
 7. [AJAX and Server Communication](#ajax-and-server-communication)
 
    - [Understanding AJAX](#understanding-ajax)
    - [Sending HTTP Requests with JavaScript](#sending-http-requests-with-javascript)
    - [Handling Server Responses](#handling-server-responses)
-
 8. [DOM Manipulation](#dom-manipulation)
 
    - [Document Object Model (DOM)](#document-object-model-dom)
    - [Accessing and Modifying DOM Elements](#accessing-and-modifying-dom-elements)
    - [Events and Event Handling on the DOM](#events-and-event-handling-on-the-dom)
-
 9. [Debugging and Optimizing JavaScript Code](#debugging-and-optimizing-javascript-code)
 
    - [Debugging Tools in the Browser](#debugging-tools-in-the-browser)
