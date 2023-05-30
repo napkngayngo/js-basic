@@ -4,8 +4,8 @@
 
 ### Get Started
 
-1. [Introduction](#introduction)
-2. [Setting up the environment](#setting-up-the-environment)
+1. [Introduction]()
+2. [Setting up the environment]()
 
 ### JavaScript Fundamentals
 
@@ -15,9 +15,9 @@
    - [Block comments]()
    - [Hashbang comments]()
 
-4. [Variables](docs/var_datatypes.md)
+4. [Variables](docs/variables.md)
 
-   - [Variable declarations](docs/var_datatypes.md#variable-declarations)
+   - [Variable declarations](docs/variables.md#variable-declarations)
      - [`var`]()
      - [`let`]()
      - [`const`]()
