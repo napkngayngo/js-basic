@@ -9,11 +9,11 @@
 
 ### JavaScript Fundamentals
 
-3. [Comments]()
+3. [Comments](docs/comments.md)
 
-   - [Line comments]()
-   - [Block comments]()
-   - [Hashbang comments]()
+   - [Line comments](docs/comments.md#line-comments)
+   - [Block comments](docs/comments.md#block-comments--or-mutiple-line-comments)
+   - [Hashbang comments](docs/comments.md#hashbang-comments)
 
 4. [Variables](docs/variables.md)
 
